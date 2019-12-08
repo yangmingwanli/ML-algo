@@ -1,2 +1,2 @@
-# kmeans
-implement kmeans algorithm.
+# ML-algo
+implement machine learning algorithm.
